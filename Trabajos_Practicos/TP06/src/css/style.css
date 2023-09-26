@@ -1,0 +1,57 @@
+
+.c-checkout {
+  width: 100%;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  animation: on--checkout--1 cubic-bezier(0.82, 0, 0.31, 0.99) 1000ms;
+  animation-fill-mode: forwards; }
+  .c-checkout__titulo {
+    color: #F0A6CA;
+    align-self: center;
+    padding-top: 5rem; }
+  .c-checkout__svg {
+    enable-background: new 0 0 37 37;
+    animation: tick--animate--1 cubic-bezier(0.82, 0, 0.31, 0.99) 2000ms;
+    height: 10rem;
+    align-self: center;
+    margin-top: 50px; }
+  .c-checkout__path {
+    fill: none;
+    stroke: #F0A6CA;
+    stroke-width: 3;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10; }
+    .c-checkout__path--circ {
+      opacity: 0;
+      stroke-dasharray: 130;
+      stroke-dashoffset: 130;
+      -webkit-transition: all 1s;
+      -moz-transition: all 1s;
+      -ms-transition: all 1s;
+      -o-transition: all 1s;
+      transition: all 1s;
+      animation: tick--animate--1 cubic-bezier(0.82, 0, 0.31, 0.99) 2000ms;
+      animation-fill-mode: forwards; }
+  .c-checkout__polyline {
+    fill: none;
+    stroke: #F0A6CA;
+    stroke-width: 3;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10; }
+    .c-checkout__polyline--tick {
+      stroke-dasharray: 50;
+      stroke-dashoffset: 50;
+      -webkit-transition: stroke-dashoffset 1s 0.5s ease-out;
+      -moz-transition: stroke-dashoffset 1s 0.5s ease-out;
+      -ms-transition: stroke-dashoffset 1s 0.5s ease-out;
+      -o-transition: stroke-dashoffset 1s 0.5s ease-out;
+      transition: stroke-dashoffset 1s 0.5s ease-out;
+      animation: tick--animate--1 cubic-bezier(0.82, 0, 0.31, 0.99) 2000ms;
+      animation-fill-mode: forwards; }
+
+@keyframes tick--animate--1 {
+  100% {
+    opacity: 1;
+    stroke-dashoffset: 0; } }
+
