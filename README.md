@@ -28,3 +28,5 @@ Referencia       |   Significado
 \<Desc\>         |   Descripcion del contenido de la presentacion
 \<Titulo\>       |   Titulo del libro
 \<NombreGuia\>   |   Nombre de la guia de trabajos
+\<Asignatura\>   |   Nombre de la Asignatura
+
