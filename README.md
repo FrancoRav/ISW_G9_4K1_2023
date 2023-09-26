@@ -17,3 +17,6 @@ Repositorio para Ingeniería y Calidad de Software - 4K1 - 2023 - Grupo 9
 ---------------------   | -----------------             | ----------------
 Libros                  | ISW_B_Libro_\<Titulo\>.pdf    | ISW_G9_4K1_2023/Material_Bibliografico
 Guia de Trabajos        | ISW_P_GT_\<NombreGuia\>.pdf   | ISW_G9_4K1_2023/Material_Practico/Guias_de_Trabajos
+Presentaciones de clase | PPT_Teorico <NroC> <Desc>     | ISW_G9_4K1_2023\Material_ Teorico\Presentaciones
+
+## Glosario
