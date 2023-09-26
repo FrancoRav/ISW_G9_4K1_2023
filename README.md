@@ -23,7 +23,7 @@ Material Bibliográfico  | ISW_B_\<Tipo\>_\<Titulo\>.pdf         | ISW_G9_4K1_20
 Guia de Trabajos        | ISW_P_GT_\<NombreGuia\>.pdf           | ISW_G9_4K1_2023/Material_Practico/Guias_de_Trabajos
 Presentaciones de clase | ISW_T_PPT_\<NroC\>_\<Desc\>.pdf       | ISW_G9_4K1_2023/Material_Teorico/Presentaciones
 Programa de Asignatura  | ISW_A_Planificacion_\<Asignatura\>.pdf| ISW_G9_4K1_2023/General
-Trabajos Prácticos      | ISW_P_\<TPxx\>_\<ArchivoTP\>.<ext>    | ISW_G9_4K1_2023/Trabajos_Practicos/\<TPxx\>
+Trabajos Prácticos      | ISW_P_\<TPxx\>_\<ArchivoTP\>.\<ext\>  | ISW_G9_4K1_2023/Trabajos_Practicos/\<TPxx\>
 
 ## Glosario
 
@@ -37,3 +37,4 @@ Referencia          |   Significado
 \<Asignatura\>      |   Nombre de la Asignatura
 \<TPxx\>            |   Trabajo Práctico Número xx (TP01, TP02, etc.)
 \<ArchivoTP\>       |   Descripción del Archivo del Trabajo Práctico
+\<ext\>             |   Extensión del Archivo
