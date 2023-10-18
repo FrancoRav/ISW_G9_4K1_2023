@@ -1,0 +1,1 @@
+[Link al pdf](https://cdn.discordapp.com/attachments/1148357689466962080/1164332100506374224/ISW_P_TP08_SCRUM.pdf?ex=6542d3c5&is=65305ec5&hm=6cd7778ec75f8aba6203c2eb788a2af059e0a87ad2e11599182f763ca93b30b4&)
