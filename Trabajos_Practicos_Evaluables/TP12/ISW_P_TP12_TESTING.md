@@ -1,0 +1,1 @@
+[Descarga de la resolución](https://cdn.discordapp.com/attachments/1148357689466962080/1166178626300031178/Grupo09-ISW_P_TP12_TESTING.xlsx?ex=65498b7b&is=6537167b&hm=1e2d1ebdd4240477b4821801782e0de6cf911c3bcdf513f179fc97457a513c86&)
