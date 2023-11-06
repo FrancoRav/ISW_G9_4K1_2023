@@ -3,6 +3,7 @@
 Repositorio para Ingeniería y Calidad de Software - 4K1 - 2023 - Grupo 9
 
 ## Estructura del Repositorio
+
 ```
 .
 ├── General
@@ -14,6 +15,7 @@ Repositorio para Ingeniería y Calidad de Software - 4K1 - 2023 - Grupo 9
 ├── Material_Teorico
 │   ├── Clases_Grabadas
 │   └── Presentaciones
+├── Trabajos_Conceptuales
 └── Trabajos_Practicos_Evaluables
     └── <TPxx>
 ```
@@ -33,6 +35,7 @@ Templates                               | ISW_P_TMPL_<Parcial>.docx             
 Clase Grabada Práctica                  | ISW_T_CG_<NroC>.txt                       | ISW_G9_4K1_2023/Material_Practico/Clases_Grabadas
 Material Apoyo para Parciales           | ISW_Material_Apoyo_Parciales.pdf          | ISW_G9_4K1_2023/General
 Lineamientos para Trabajos Teóricos     | ISW_T_TC_Lineamientos.pdf                 | ISW_G9_4K1_2023/Material_Teorico
+Trabajos Conceptuales                   | ISW_T_TC_\<NroTC\>_\<DescTC\>.pdf         | ISW_G9_4K1_2023/Trabajos_Conceptuales
 
 ## Glosario
 
@@ -40,10 +43,12 @@ Referencia          |   Significado
 ----------          |   -----------
 \<Tipo\>            |   Tipo de Material Bibliográfico (Libro, Paper, etc)
 \<NroC\>            |   Numero de clase
-\<Desc\>            |   Descripcion del contenido de la presentacion
+\<Desc\>            |   Descripción del contenido de la presentacion
 \<Titulo\>          |   Titulo del libro
 \<NombreGuia\>      |   Nombre de la guia de trabajos
 \<Asignatura\>      |   Nombre de la Asignatura
 \<TPxx\>            |   Trabajo Práctico Número xx (TP01, TP02, etc.)
 \<ArchivoTP\>       |   Descripción del Archivo del Trabajo Práctico
 \<Parcial\>         |   Parcial al que corresponde el archivo
+\<NroTC\>           |   Número de Trabajo Conceptual
+\<DescTC\>          |   Descripción del archivo del Trabajo Conceptual
